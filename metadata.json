@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Hotel Booking Platform",
+  "description": "A premium, high-end minimalist booking experience for luxury hotels, resorts, and private villas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
